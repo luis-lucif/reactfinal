@@ -17,7 +17,7 @@ A donde el usuario clickeara un boton donde dice finalizar pedido y se le creara
 
 Firestore tiene colecciones creadas como: productos y pedidos.\
 Tambien se uso para deployar el proyecto creado.\
-
+link online https://fanciful-daifuku-b65587.netlify.app
 
 ### `Boostrap react`
 
