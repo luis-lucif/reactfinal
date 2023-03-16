@@ -17,7 +17,7 @@ A donde el usuario clickeara un boton donde dice finalizar pedido y se le creara
 
 Firestore tiene colecciones creadas como: productos y pedidos.\
 Tambien se uso para deployar el proyecto creado.\
-Ver en linea: https://pandora-luxury.web.app/
+
 
 ### `Boostrap react`
 
