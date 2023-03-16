@@ -1,0 +1,14 @@
+.contacto{
+    padding: 10px;
+    border-radius: 20px;
+    width: 100vw;
+    height: 80vh;
+};
+
+
+.formularioDeContacto{
+    width: 200px;
+    display: grid;
+    justify-self: stretch;
+}
+

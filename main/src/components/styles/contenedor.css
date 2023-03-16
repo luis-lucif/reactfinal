@@ -1,0 +1,47 @@
+.contenedorCard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+.estilosDeCards {
+    color:black;
+    box-shadow: 0 20px 40px -14px rgba(0,0,0,0.25);
+}
+
+.cardDetail{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+}
+
+.load {
+    height: 100px;
+    width: 100px;
+}
+
+.contenedorLoad {
+    height: 400px;
+    display: flex;
+    justify-content: flex-start;
+    justify-items: flex-start;
+    padding: 400px;
+}
+
+
+.contenedorDireccion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-items: center;
+};
+
+.contador{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
